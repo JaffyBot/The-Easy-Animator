@@ -10,7 +10,7 @@ A simple 2D animation player (built in Java).
 4) *text* - display animations in plain text.
 
 **Animation Play Instruction**. The animator is designed to run in the terminal with a JAR file and command-line arguement. The program reads one of the existing formated and provided input text files in the specified play mode (can be found under "out/artifacts/The_Easy_Animator_jar"). If the chosen play mode is visual, users need to specify the play speed (e.g., 50; the bigger the number, the greater the speed). Here are some valid examples of the command-line argument to run the animator: 
-- java -jar JARFILENAME -in toh-3.txt -view text 
-- java -jar JARFILENAME -in toh-3.txt -view svg 
-- java -jar JARFILENAME -in toh-5.txt -view visual -speed 20 
-- java -jar JARFILENAME -in toh-5.txt -view playback
+- java -jar The_Easy_Animator.jar -in toh-3.txt -view text 
+- java -jar The_Easy_Animator.jar -in toh-3.txt -view svg 
+- java -jar The_Easy_Animator.jar -in toh-5.txt -view visual -speed 20 
+- java -jar The_Easy_Animator.jar -in toh-5.txt -view playback

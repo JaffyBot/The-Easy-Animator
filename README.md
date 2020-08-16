@@ -1,4 +1,4 @@
-# The-Easy-Animator
+# The Easy Animator
 *A simple 2D animation player (built in Java)*
 
 **Project Description.** The Easy Animator is a pair programming project (collaborated with peer R.L.). The project is intented for learning and practising CS concepts/topics, which includes (but not limited to) object-oriented design, MVC architecture, testing, GUI etc. 

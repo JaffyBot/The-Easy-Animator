@@ -5,7 +5,7 @@
 
 **Feature.** Animations can be played in 4 modes: 
 1) *visual* - a straightforward visual play
-2) *playback* - an interactve version of the visual play (additional features include manually start, restart, pause/resume, enable/disable looping, and increase/decrease animation play speed)
+2) *playback* - an interactive version of the visual play (additional features include manually start, restart, pause/resume, enable/disable looping, and increase/decrease animation play speed)
 3) *svg* - display animations in svg text and 
 4) *text* - display animations in plain text
 

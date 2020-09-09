@@ -15,3 +15,9 @@
 - java -jar The_Easy_Animator.jar -in toh-3.txt -out -outfilename -view svg 
 - java -jar The_Easy_Animator.jar -in toh-5.txt -view visual -speed 20 
 - java -jar The_Easy_Animator.jar -in toh-5.txt -view playback
+
+**Sample Images**.
+
+![](Sample_Images/Tower%20of%20Hanoi.png)
+![](Sample_Images/Big%20Bang.png)
+![](Sample_Images/SVG.png)
